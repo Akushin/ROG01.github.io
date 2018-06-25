@@ -2554,7 +2554,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{vvv
 
 	// timeline functions:
 	this.frame_0 = function() {
-		playSound("岡部啓一遺サレタ場所斜光");
+		playSound("_01_1");
 	}
 	this.frame_199 = function() {
 		/* 淡入影片剪辑
@@ -4642,8 +4642,8 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/index_atlas_.png?1529887542677", id:"index_atlas_"},
-		{src:"sounds/岡部啓一遺サレタ場所斜光_.mp3", id:"岡部啓一遺サレタ場所斜光"}
+		{src:"images/index_atlas_.png", id:"index_atlas_"},
+		{src:"sounds/_01_1.mp3", id:"_01_1"}
 	],
 	preloads: []
 };
